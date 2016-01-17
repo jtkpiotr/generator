@@ -1,0 +1,43 @@
+Information Technology
+Introduction to aspects of information society
+Introduction to information storage
+Introduction to computer hardware
+Introduction to programming techniques
+Introduction to telecommunications, multimedia
+Industrial safety and ergonomics
+Ergonomics and issues associated with it
+Management systems, occupational health
+Programming techniques
+Practical usage of UNIX operating system
+Architecture of a simple computer
+Programming language
+Fundamentals of C language programming
+Basic algorithms
+Solving sets of equations, applications
+Interpolation and extrapolation
+Approximation
+Regression analysis and discrete transforms
+Selected applications of mathematical analysis
+Digital Electronics and Programmable Devices
+Propagation of digital signals
+Boolean algebra
+Combinational circuits, gates
+Definition of combinational logic, gates
+Sequential logic definition and types
+Materials for optoelectronics
+Semiconductor light sources
+Photodetectors and photovoltaic cells
+Basics in optical fibers
+Displays and image sensors
+Components based on photoemission
+Object-Oriented Programming Languages
+OOP Basics
+Basic instructions, operators, expressions
+Object programming
+C++ Templates
+Elements of the software design
+Wireless techniques and systems
+Basic concepts of digital wireless systems
+Frequency bands and its use
+Digital cordless phone systems
+Digital cellular systems
